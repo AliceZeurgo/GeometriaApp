@@ -1,0 +1,10 @@
+package br.senai.sp.model;
+
+public class Triangulo {
+	
+	double base; 
+	double ladoB;
+    double ladoC;
+    double altura;
+
+}

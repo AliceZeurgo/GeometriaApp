@@ -1,0 +1,20 @@
+package br.senai.sp;
+
+import br.senai.sp.model.Triangulo;
+
+public class GeometriaApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Criando triangulo...");
+		
+		// Criando dois triângulos 
+		
+		Triangulo t1 = new Triangulo()
+	   Triangulo t2 = new Triangulo()
+	   
+	   //Definindo as propriedades dos triângulos
+	   t1 .equals(t2)
+	}
+
+}

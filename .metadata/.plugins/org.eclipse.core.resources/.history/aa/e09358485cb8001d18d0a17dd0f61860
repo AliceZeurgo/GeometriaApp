@@ -1,0 +1,12 @@
+package br.senai.sp.model;
+
+
+public class GeometriaApp {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Criando triângulos...");
+
+	}
+      
+}
